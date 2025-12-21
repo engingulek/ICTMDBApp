@@ -6,8 +6,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Alamofire/Alamofire.git",
       "state" : {
-        "revision" : "7be73f6c2b5cd90e40798b06ebd5da8f9f79cf88",
-        "version" : "5.11.0"
+        "revision" : "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+        "version" : "5.10.2"
       }
     },
     {
@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/engingulek/GenericCollectionViewKit",
       "state" : {
-        "revision" : "a41d0a2baf33d22100708590eea147a6a3f7464d",
-        "version" : "0.0.7"
+        "revision" : "316fcf9e353fa787ec8995948ac71bea46ddf288",
+        "version" : "0.0.2"
       }
     },
     {
@@ -33,8 +33,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/engingulek/ICTMDBAllListModule",
       "state" : {
-        "revision" : "616038b2300968cc3a8d78d4c7a489af3dc6f69f",
-        "version" : "0.0.6"
+        "revision" : "dfbad20df9aa4835931205a548ada452d54ac1ce",
+        "version" : "0.0.2"
       }
     },
     {
@@ -42,8 +42,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/engingulek/ICTMDBDetailModule",
       "state" : {
-        "revision" : "8b79f3d63682e19e121036a958c51907bec1d62e",
-        "version" : "0.0.5"
+        "revision" : "d383e684f33864fab0a9cb88f652f0a38fe1a273",
+        "version" : "0.0.1"
       }
     },
     {
@@ -51,8 +51,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/engingulek/ICTMDBHomeModule",
       "state" : {
-        "revision" : "56147f4ac17801070e24be739a6e400121bc60ed",
-        "version" : "0.0.4"
+        "revision" : "882f0551b32b7405b949fe430c65d81eb74ab708",
+        "version" : "0.0.2"
       }
     },
     {
@@ -69,8 +69,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/engingulek/ICTMDBNetworkManagerKit",
       "state" : {
-        "revision" : "c39931f4fb42ee553ff38af589ba1e50b36aa121",
-        "version" : "0.0.5"
+        "revision" : "1bfc3e242df133d9c74918a27e4bb305d159437a",
+        "version" : "0.0.2"
       }
     },
     {
@@ -78,8 +78,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/engingulek/ICTMDBViewKit",
       "state" : {
-        "revision" : "cb7d4f70a03495e409ff5ff76bb8141d737d7416",
-        "version" : "0.1.0"
+        "revision" : "be3081738b66acd58ebe28de2c62aca91e8afa18",
+        "version" : "0.0.3"
       }
     },
     {
@@ -87,8 +87,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/onevcat/Kingfisher.git",
       "state" : {
-        "revision" : "d30a5fad881137e2267f96a8e3fc35c58999bb94",
-        "version" : "8.6.2"
+        "revision" : "4d75de347da985a70c63af4d799ed482021f6733",
+        "version" : "8.6.1"
       }
     },
     {
