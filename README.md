@@ -6,19 +6,15 @@ It is a modular application built using a list of TMDB TV shows
 ### There are 4 Kits
 <ul>
   <li>
-    <a href="https://github.com/engingulek/ICTMDBViewKit">ICTMDBViewKit</a>
+    <a href="https://github.com/engingulek/ICTMDBViewKit/tree/version/swiftui">ICTMDBViewKit</a>
   </li> 
-  
+
   <li>
-    <a href="https://github.com/engingulek/GenericCollectionViewKit">GenericCollectionViewKit</a>
-    
-  </li> 
-  <li>
-    <a href="https://github.com/engingulek/ICTMDBNetworkManagerKit">ICTMDBNetworkManagerKit</a>
+    <a href="https://github.com/engingulek/ICTMDBNetworkManagerKit/tree/feature/create-modular-network-layer">ICTMDBNetworkManagerKit</a>
     
   </li>
   <li>
-    <a href="https://github.com/engingulek/ICTMDBModularProtocols">ICTMDBModularProtocols</a>
+    <a href="https://github.com/engingulek/ICTMDBModularProtocols/tree/version/swiftui">ICTMDBModularProtocols</a>
     
   </li> 
     <li>
@@ -33,13 +29,13 @@ It is a modular application built using a list of TMDB TV shows
 <ul>
  
   <li>
-    <a href="https://github.com/engingulek/ICTMDBHomeModule">ICTMDBHomeModule</a>
+    <a href="https://github.com/engingulek/ICTMDBHomeModule/tree/version/swift-ui">ICTMDBHomeModule</a>
   </li> 
    <li>
-    <a href="https://github.com/engingulek/ICTMDBAllListModule">ICTMDBAllListModule</a>
+    <a href="https://github.com/engingulek/ICTMDBAllListModule/tree/version/swiftui">ICTMDBAllListModule</a>
   </li> 
    <li>
-    <a href="https://github.com/engingulek/ICTMDBDetailModule">ICTMDBDetailModule</a>
+    <a href="https://github.com/engingulek/ICTMDBDetailModule/tree/version/swiftui">ICTMDBDetailModule</a>
   </li> 
   
 </ul>  
@@ -49,18 +45,28 @@ It is a modular application built using a list of TMDB TV shows
 <ul>
   <li>Alamofire</li>
   <li>Kingfisher</li>
-  <li>SnapKit</li>
   <li>Swinject</li>
 </ul>  
 
 
 ## Technical information about the application
 <ul>
-  <li>VIPER used</li>
+  <li>MVVM used</li>
   <li>Modular structure</li>
   <li>Protocol Oriented Programming</li>
-  <li>Swift Testing</li>
 </ul>  
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -73,9 +79,9 @@ It is a modular application built using a list of TMDB TV shows
 ## Videos
  <table style"float:right;">
  <tr>
-   <td>  <video width="320" height="240" src = "https://github.com/user-attachments/assets/42e0804c-9329-4595-9b47-1f4e6c7d80cd">   </td>
-   <td>  <video width="320" height="240" src = "https://github.com/user-attachments/assets/aa5dcdf2-1055-415b-b837-f8d6821ea4b0">   </td>
-    <td>  <video width="320" height="240" src = "https://github.com/user-attachments/assets/1c43657d-f2c2-471d-9d43-17296bb90932">   </td>
+   <td>  <video width="320" height="240" src = "https://github.com/user-attachments/assets/73912538-c155-4fa5-b112-9725b912200c">   </td>
+   <td>  <video width="320" height="240" src = "https://github.com/user-attachments/assets/32280f80-99f8-48d1-9aaa-b346ddd02d24">   </td>
+    <td>  <video width="320" height="240" src = "https://github.com/user-attachments/assets/e205759c-0f89-47f5-900a-ea83c7f9d989">   </td>
  </tr>
  </table>
 
