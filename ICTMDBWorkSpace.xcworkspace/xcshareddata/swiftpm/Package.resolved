@@ -33,8 +33,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/engingulek/ICTMDBAllListModule",
       "state" : {
-        "revision" : "616038b2300968cc3a8d78d4c7a489af3dc6f69f",
-        "version" : "0.0.6"
+        "revision" : "a137dd9a2596f50069275463492e83b26838ff32",
+        "version" : "0.0.7"
       }
     },
     {
@@ -42,8 +42,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/engingulek/ICTMDBDetailModule",
       "state" : {
-        "revision" : "8b79f3d63682e19e121036a958c51907bec1d62e",
-        "version" : "0.0.5"
+        "revision" : "49eb4ca5bd8ebae066e8da0016adf19e77210d85",
+        "version" : "0.0.6"
       }
     },
     {
@@ -51,8 +51,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/engingulek/ICTMDBHomeModule",
       "state" : {
-        "revision" : "7d0dd4c794eb5a7945dde92a5fce26a73d1d67ec",
-        "version" : "0.0.5"
+        "revision" : "d8e2c1b2810be694ddc24e0fcbf7c044214af98e",
+        "version" : "0.0.6"
       }
     },
     {
