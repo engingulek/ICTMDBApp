@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7D0220582F0D812700C587EA /* ICTMDBHomeModule in Frameworks */ = {isa = PBXBuildFile; productRef = 7D0220572F0D812700C587EA /* ICTMDBHomeModule */; };
 		7DDAA16A2EC520C20005D94B /* DependencyKit in Frameworks */ = {isa = PBXBuildFile; productRef = 7DDAA1692EC520C20005D94B /* DependencyKit */; };
-		7DDAA16D2EC520E80005D94B /* ICTMDBHomeModule in Frameworks */ = {isa = PBXBuildFile; productRef = 7DDAA16C2EC520E80005D94B /* ICTMDBHomeModule */; };
 		7DDAA1702EC520FF0005D94B /* ICTMDBAllListModule in Frameworks */ = {isa = PBXBuildFile; productRef = 7DDAA16F2EC520FF0005D94B /* ICTMDBAllListModule */; };
 		7DDAA1732EC521160005D94B /* ICTMDBDetailModule in Frameworks */ = {isa = PBXBuildFile; productRef = 7DDAA1722EC521160005D94B /* ICTMDBDetailModule */; };
 /* End PBXBuildFile section */
@@ -43,9 +43,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7DDAA16D2EC520E80005D94B /* ICTMDBHomeModule in Frameworks */,
 				7DDAA1702EC520FF0005D94B /* ICTMDBAllListModule in Frameworks */,
 				7DDAA1732EC521160005D94B /* ICTMDBDetailModule in Frameworks */,
+				7D0220582F0D812700C587EA /* ICTMDBHomeModule in Frameworks */,
 				7DDAA16A2EC520C20005D94B /* DependencyKit in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -90,9 +90,9 @@
 			name = ICTMDBApp;
 			packageProductDependencies = (
 				7DDAA1692EC520C20005D94B /* DependencyKit */,
-				7DDAA16C2EC520E80005D94B /* ICTMDBHomeModule */,
 				7DDAA16F2EC520FF0005D94B /* ICTMDBAllListModule */,
 				7DDAA1722EC521160005D94B /* ICTMDBDetailModule */,
+				7D0220572F0D812700C587EA /* ICTMDBHomeModule */,
 			);
 			productName = ICTMDBApp;
 			productReference = 7DA51F172EC51FCF00923D5F /* ICTMDBApp.app */;
@@ -124,9 +124,9 @@
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
 				7DDAA1682EC520C20005D94B /* XCRemoteSwiftPackageReference "HPDependencyKit" */,
-				7DDAA16B2EC520E80005D94B /* XCRemoteSwiftPackageReference "ICTMDBHomeModule" */,
 				7DDAA16E2EC520FF0005D94B /* XCRemoteSwiftPackageReference "ICTMDBAllListModule" */,
 				7DDAA1712EC521160005D94B /* XCRemoteSwiftPackageReference "ICTMDBDetailModule" */,
+				7D0220562F0D812700C587EA /* XCRemoteSwiftPackageReference "ICTMDBHomeModule" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 7DA51F182EC51FCF00923D5F /* Products */;
@@ -378,20 +378,20 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
+		7D0220562F0D812700C587EA /* XCRemoteSwiftPackageReference "ICTMDBHomeModule" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/engingulek/ICTMDBHomeModule";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.1.0;
+			};
+		};
 		7DDAA1682EC520C20005D94B /* XCRemoteSwiftPackageReference "HPDependencyKit" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/engingulek/HPDependencyKit";
 			requirement = {
 				kind = upToNextMajorVersion;
 				minimumVersion = 1.0.0;
-			};
-		};
-		7DDAA16B2EC520E80005D94B /* XCRemoteSwiftPackageReference "ICTMDBHomeModule" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/engingulek/ICTMDBHomeModule";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 0.0.2;
 			};
 		};
 		7DDAA16E2EC520FF0005D94B /* XCRemoteSwiftPackageReference "ICTMDBAllListModule" */ = {
@@ -413,15 +413,15 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
+		7D0220572F0D812700C587EA /* ICTMDBHomeModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7D0220562F0D812700C587EA /* XCRemoteSwiftPackageReference "ICTMDBHomeModule" */;
+			productName = ICTMDBHomeModule;
+		};
 		7DDAA1692EC520C20005D94B /* DependencyKit */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 7DDAA1682EC520C20005D94B /* XCRemoteSwiftPackageReference "HPDependencyKit" */;
 			productName = DependencyKit;
-		};
-		7DDAA16C2EC520E80005D94B /* ICTMDBHomeModule */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 7DDAA16B2EC520E80005D94B /* XCRemoteSwiftPackageReference "ICTMDBHomeModule" */;
-			productName = ICTMDBHomeModule;
 		};
 		7DDAA16F2EC520FF0005D94B /* ICTMDBAllListModule */ = {
 			isa = XCSwiftPackageProductDependency;

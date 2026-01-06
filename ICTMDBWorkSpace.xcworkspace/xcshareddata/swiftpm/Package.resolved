@@ -51,8 +51,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/engingulek/ICTMDBHomeModule",
       "state" : {
-        "revision" : "d8e2c1b2810be694ddc24e0fcbf7c044214af98e",
-        "version" : "0.0.6"
+        "revision" : "5aa47acd7c63f32e22d9b4809ec864090db63022",
+        "version" : "0.1.0"
       }
     },
     {
